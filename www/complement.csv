@@ -1,0 +1,225 @@
+Study;Day;Day_chr;Timepoint;Healthy;Disease;Treatment;Treatment_anti_IL6;Exclude_anti_IL1_IL6_comparison;Anti_IL_6;Anti_IL_1;CRP;Ferritin;Ddimer;PF_ratio;OS_at_baseline;Need_for_IMV;Critical;Survival;Bb;C3a;C4a;C5a;sC5b-9 (MAC);C3;C4;C1INHconc;C1INHact
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;118;1975;909;338;4;0;non-critical;survivor;1.33;91.59;941.34;12.92;320.6;0.644;0.185;0.161;69
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;80;271;529;340;4;0;non-critical;survivor;1.42;69;1153.3;5.55;191.12;0.676;0.161;0.161;73
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;75;332;273;355;4;0;non-critical;survivor;1.27;69;315.73;14.27;281.15;0.491;0.202;0.205;89
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;122;802;NA;258;4;0;non-critical;survivor;1.01;69;429.34;13.69;300.29;0.597;0.198;0.152;67
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;12;491;578;317;4;0;non-critical;survivor;1.1;69;653.05;7.9;215.99;0.598;0.106;0.146;53
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;32;640;569;248;4;0;non-critical;survivor;1.13;87.2;1113.73;10.16;263.21;0.649;0.2;0.268;89
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;177;277;1159;334;4;0;non-critical;survivor;2.27;142.83;1370.51;21.99;666.72;0.911;0.178;0.255;89
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;74;819;509;348;4;0;non-critical;survivor;1.58;96.65;1399.7;3.91;333.25;0.858;0.27;0.245;87
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;146;1018;1059;270;4;0;non-critical;survivor;1.92;179.29;1095.56;37.44;599.18;0.681;0.198;0.27;90
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;214;409;918;317;4;0;non-critical;survivor;2.52;110.64;1025.79;17.27;386.01;0.86;0.203;0.203;75
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;127;336;1119;327;4;0;non-critical;survivor;1.23;83.51;554.98;12.1;310.45;0.635;0.17;0.171;64
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;72;664;NA;325;4;0;non-critical;survivor;1.4;74.01;484.78;12.18;236.77;0.686;0.219;0.201;71
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;141;1312;657;322;4;0;non-critical;survivor;1.88;75.46;1002.17;3.81;466.67;0.594;0.157;0.186;64
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;56;813;938;266;4;0;non-critical;survivor;0.64;69;96;2.67;270.95;0.181;0.081;0.093;38
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;41;307;NA;274;4;0;non-critical;survivor;1.88;102.09;298.41;11.18;285.85;0.686;0.213;0.187;77
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;74;1232;1258;337;4;0;non-critical;survivor;1.36;80.63;1157.52;12.89;349.88;0.774;0.218;0.235;82
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;155;1058;NA;261;4;0;non-critical;survivor;0.93;69;673.88;2.21;310.45;0.456;0.092;0.104;38
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;65;684;NA;235;4;0;non-critical;survivor;1.47;224.11;935.82;7.73;496.81;0.746;0.137;0.161;61
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;73;336;NA;248;4;0;non-critical;survivor;0.88;75.58;559.96;16.28;295.83;0.704;0.192;0.199;71
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;11;261;NA;315;4;0;non-critical;survivor;0.79;69;963.9;2.85;171;0.432;0.079;0.105;36
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;28;1361;NA;329;4;0;non-critical;survivor;1.12;69;467.91;6;279.23;0.69;0.184;0.209;73
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;33;398;NA;254;4;0;non-critical;survivor;1.18;69;720.74;3.29;171;0.682;0.138;0.186;65
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;73;928;NA;278;4;0;non-critical;survivor;1.86;74.53;760.19;3.82;334.4;0.588;0.079;0.171;61
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;25;718;794;249;4;0;non-critical;survivor;1.39;69;949.63;8.55;244.17;0.582;0.171;0.221;80
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;108;660;NA;290;4;0;non-critical;survivor;1.27;143.92;2479.3;5.44;312.99;0.793;0.127;0.142;50
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;28;640;279;338;5;0;non-critical;survivor;1.56;69;1236.97;18.39;387.25;0.549;0.157;0.208;67
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;74;1525;785;290;4;0;non-critical;survivor;1.17;94.86;1043.22;3.27;188.62;0.482;0.144;0.131;47
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;115;1069;931;157;3;0;non-critical;survivor;1.5;155.44;1072.4;23.04;456.19;0.63;0.204;0.185;64
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;263;610;571;168;2;1;critical;survivor;1.82;122.9;1218.3;30.06;470.88;0.675;0.168;0.177;66
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;39;1809;1586;310;4;1;critical;survivor;1.87;160.53;1392.87;22.92;522.05;0.757;0.17;0.199;72
+SARPAC;1;day 1 (predose);1;no;COVID-19;GMCSF;;yes;;;110;2268;998;149;4;1;critical;non-survivor;1;114.27;624.22;12.25;400.28;0.448;0.172;0.185;67
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;403;NA;NA;non-critical;survivor;0.99;69;559.57;5.02;211.42;0.673;0.129;0.154;68
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;397;NA;NA;non-critical;survivor;1.21;69;544.15;5.11;347.75;0.782;0.179;0.168;62
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;438;NA;NA;non-critical;survivor;1.86;71.72;1636.85;6.78;274.11;0.69;0.13;0.144;52
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;331;NA;NA;non-critical;survivor;1.25;96.21;568.52;12.13;349.64;0.595;0.176;0.22;82
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;306;NA;NA;non-critical;survivor;1.09;96.26;775.06;7.67;263.21;0.752;0.167;0.179;61
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;404;NA;NA;non-critical;survivor;0.94;86.29;1064.98;6.01;227.69;0.553;0.14;0.201;67
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;259;NA;NA;non-critical;survivor;0.89;69;231.8;5.29;288.18;0.794;0.145;0.223;80
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;415;NA;NA;non-critical;survivor;1;81.45;541.16;1.85;195.72;0.724;0.227;0.195;72
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;375;NA;NA;non-critical;survivor;0.8;69;391.89;2.17;171;0.437;0.199;0.084;32
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;391;NA;NA;non-critical;survivor;0.95;72.1;342.7;5.04;215.33;0.534;0.143;0.144;54
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;382;NA;NA;non-critical;survivor;1.19;78.35;874.48;11.25;268.98;0.686;0.204;0.227;79
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;430;NA;NA;non-critical;survivor;1.32;69;692.15;2.21;313.87;0.67;0.176;0.211;74
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.91;69;472.31;5.75;171;0.715;0.157;0.182;64
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.2;69;1120.14;1.61;254.85;0.681;0.141;0.147;51
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;343;NA;NA;non-critical;survivor;0.94;108.42;1042.74;3.63;232.88;0.702;0.116;0.138;50
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;112;NA;NA;non-critical;survivor;0.79;69;818.44;9.57;171;0.407;0.15;0.082;28
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;247;NA;NA;non-critical;survivor;0.74;69;208.86;4.85;171;0.176;0.09;0.078;27
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;419;NA;NA;non-critical;survivor;1.07;70.4;618.97;3.94;179.26;0.667;0.153;0.163;59
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;325;NA;NA;non-critical;survivor;1.24;112.25;1693.16;7.74;411.04;0.617;0.201;0.206;79
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;436;NA;NA;non-critical;survivor;1.58;69;555.64;1.92;201.78;0.581;0.074;0.16;68
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;309;NA;NA;non-critical;survivor;0.73;69;382.8;3.16;208.83;0.496;0.104;0.187;70
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;352;NA;NA;non-critical;survivor;1.45;74.8;1284.62;4.85;194.4;0.712;0.107;0.123;40
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;123;NA;NA;non-critical;survivor;0.63;95.17;832.2;1.97;171;0.447;0.112;0.139;53
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;146;NA;NA;non-critical;survivor;0.74;96.14;587.03;7.9;375.56;0.489;0.139;0.158;56
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;111;NA;NA;critical;survivor;1.81;170.09;1642.89;26.47;710.24;0.794;0.147;0.22;86
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;212;NA;NA;critical;survivor;1.44;92.18;861.79;11.97;258.89;0.835;0.144;0.211;75
+SARPAC;6;day 6;2;no;COVID-19;GMCSF;;yes;;;NA;NA;NA;167;NA;NA;critical;non-survivor;1.53;178.33;955.78;7.1;472;0.428;0.112;0.168;68
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;83;773;699;290;4;0;non-critical;survivor;0.7;69;451.31;5.03;226.39;0.429;0.099;0.074;36
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;116;343;348;341;4;0;non-critical;survivor;1.48;80.82;502.35;2.96;416.55;0.753;0.208;0.215;87
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;72;626;NA;269;4;0;non-critical;survivor;0.95;69;393.63;6.74;261.28;0.724;0.196;0.209;83
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;67;473;NA;330;4;0;non-critical;survivor;0.97;69;274.4;10.86;309.82;0.688;0.11;0.198;70
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;102;787;NA;320;4;0;non-critical;survivor;1.3;106.43;707.83;3.32;445.68;0.683;0.087;0.183;64
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;180;1058;NA;163;4;0;non-critical;survivor;1.35;89;1601.32;4.52;405.35;0.698;0.208;0.175;66
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;65;590;728;306;5;0;non-critical;survivor;1.43;79.22;575.32;14.7;337.67;0.821;0.186;0.265;95
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;32;416;359;332;4;0;non-critical;survivor;2.15;87.94;830.83;17.31;440.73;0.654;0.19;0.29;100
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;38;574;288;315;4;0;non-critical;survivor;1.69;118.14;1190.82;16.49;355.45;0.524;0.147;0.141;57
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;38;574;288;315;4;0;non-critical;survivor;0.75;69;780.25;1.85;185.19;0.637;0.079;0.151;57
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;15;1389;659;241;4;0;non-critical;survivor;0.77;69;1086.08;2.38;360.95;0.628;0.121;0.165;61
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;37;195;469;176;4;0;non-critical;survivor;1.33;69;337.39;3.2;200.31;0.543;0.25;0.215;78
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;28;1646;388;349;4;0;non-critical;survivor;1.15;69;192.66;6.94;211.42;0.554;0.152;0.2;71
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;159;1612;1349;303;4;0;non-critical;survivor;1.74;151.23;633.82;12.61;492.27;0.672;0.203;0.191;69
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;175;1376;443;109;3;0;non-critical;survivor;1.63;109.27;1121.83;18.41;435.16;0.653;0.165;0.221;75
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;148;1597;NA;145;4;0;non-critical;survivor;0.8;121.9;493.86;6.61;266.42;0.716;0.077;0.137;50
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;19;323;NA;300;4;0;non-critical;survivor;2.28;129.39;2454.77;16.36;542.68;0.668;0.13;0.142;46
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;186;293;NA;337;4;0;non-critical;survivor;0.51;69;182.57;4.81;171;0.345;0.051;0.095;34
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;45;979;299;396;4;0;non-critical;survivor;0.63;69;558.15;3.84;171;0.677;0.125;0.181;58
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;32;164;NA;335;4;0;non-critical;survivor;1.47;128.53;1733.96;12.53;303.47;0.791;0.126;0.203;70
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;309;721;434;341;3;0;non-critical;survivor;1.42;121.68;1095.22;16.06;540.01;0.696;0.143;0.183;60
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;31;491;NA;308;4;0;non-critical;survivor;1.63;139.69;1314.17;3.99;335.05;0.532;0.111;0.211;76
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;259;1660;849;319;4;0;non-critical;survivor;1.11;103.9;1201.29;8.82;323.13;0.54;0.135;0.187;69
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;220;1020;1309;219;3;0;non-critical;survivor;1.55;129.55;954.78;17.03;399.74;0.621;0.133;0.211;75
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;142;1030;998;243;3;0;non-critical;survivor;0.94;69;473.35;10.57;171;0.58;0.081;0.143;47
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;295;1076;918;236;4;1;critical;survivor;1.19;112.05;661.02;17;430.2;0.892;0.306;0.211;74
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;228;513;NA;266;4;1;critical;non-survivor;1.65;123.21;1304.85;9.72;171;0.644;0.235;0.165;58
+SARPAC;1;day 1 (predose);1;no;COVID-19;no_GMCSF;;yes;;;180;247;NA;NA;4;NA;;;1.33;85.04;806.02;8.83;419.03;0.686;0.145;0.226;81
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;348;NA;NA;non-critical;survivor;1.09;76.3;154.37;6.31;220.54;0.67;0.123;0.144;59
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;356;NA;NA;non-critical;survivor;1.04;69;264.49;1.7;179.92;0.683;0.163;0.181;67
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;340;NA;NA;non-critical;survivor;1.14;86.56;845.14;5.43;324.4;0.695;0.181;0.172;65
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;282;NA;NA;non-critical;survivor;0.97;69;503.15;1.82;191.77;0.775;0.188;0.159;58
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;367;NA;NA;non-critical;survivor;1.03;69;360.87;9.15;259.35;0.671;0.142;0.203;71
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;414;NA;NA;non-critical;survivor;1.3;69;400.32;4.71;272.83;0.685;0.171;0.263;93
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;330;NA;NA;non-critical;survivor;0.91;69;323.49;9.56;298.38;0.7;0.166;0.222;85
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;295;NA;NA;non-critical;survivor;1.11;107.06;715.23;17.06;329.46;0.503;0.088;0.152;55
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;309;NA;NA;non-critical;survivor;0.75;78.59;1146.34;1.76;182.56;0.714;0.166;0.164;63
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;328;NA;NA;non-critical;survivor;1.87;96.85;693.39;3.02;307.58;0.752;0.293;0.197;88
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;450;NA;NA;non-critical;survivor;1.11;69;364.59;3.93;171;0.651;0.158;0.205;71
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;347;NA;NA;non-critical;survivor;1.75;130.98;1056.67;10;484.95;0.609;0.165;0.164;63
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;113;NA;NA;non-critical;survivor;1.09;138.78;547.92;14.45;306.64;0.437;0.116;0.178;61
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;311;NA;NA;non-critical;survivor;0.87;120.67;444.88;4.53;223.8;0.688;0.006;0.136;47
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;319;NA;NA;non-critical;survivor;1.12;79.28;927.37;8.86;307.28;0.671;0.079;0.168;59
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;249;NA;NA;non-critical;survivor;1.29;198.49;834.78;9.8;427.72;0.773;0.185;0.231;81
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;383;NA;NA;non-critical;survivor;0.61;69;522.24;3.48;288.71;0.339;0.065;0.083;30
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;312;NA;NA;non-critical;survivor;1;69;1221.86;6.13;250.84;0.669;0.089;0.126;47
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;335;NA;NA;non-critical;survivor;1.27;95.5;700.56;7.16;388.95;0.771;0.141;0.203;79
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;326;NA;NA;non-critical;survivor;0.75;69;376.84;2.01;177.77;0.55;0.061;0.205;78
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;300;NA;NA;non-critical;survivor;1.37;93.17;834.84;6.22;365.98;0.579;0.125;0.159;55
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;142;NA;NA;non-critical;survivor;0.96;109.33;296.89;7.97;425.74;0.478;0.073;0.216;90
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;386;NA;NA;non-critical;survivor;1.13;69;778.69;3.66;358.86;0.645;0.102;0.164;72
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;285;NA;NA;non-critical;survivor;1.25;218.84;1038.25;8.76;556.26;0.692;0.084;0.131;48
+SARPAC;6;day 6;2;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;249;NA;NA;critical;non-survivor;1.39;304.71;1273.7;13.85;171;0.811;0.116;0.256;90
+SARPAC;15;day 15;3;no;COVID-19;no_GMCSF;;yes;;;NA;NA;NA;NA;NA;NA;critical;survivor;1.06;69;498.65;5.54;241.63;0.615;0.256;0.131;55
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;162;1087;NA;250;4;0;non-critical;survivor;2.41;143.66;699.55;39.59;538.32;0.894;0.247;0.301;115
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;126;1122;1100;314;4;0;non-critical;survivor;1.48;215.56;260.87;10.96;443.57;0.403;0.061;0.171;62
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;14;1692;530;366;4;0;non-critical;survivor;2.5;81.26;666.6;6.94;411.6;0.771;0.242;0.264;113
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;129;1960;1100;205;3;1;critical;survivor;2.02;201.87;1210.21;17.11;406.18;0.74;0.233;0.292;102
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;359;2372;1600;134;4;1;critical;survivor;1.64;142.15;333.71;26.75;422.91;0.558;0.092;0.169;73
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;284;1353;990;73;2;1;critical;survivor;1.06;81.1;618.98;16.24;398.58;0.654;0.143;0.225;95
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;26;2460;500;223;2;1;critical;survivor;1.71;110.39;1220.9;14.51;183.88;0.427;0.147;0.187;68
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;175;1040;4120;107;3;1;critical;non-survivor;1;149.56;703.08;2.27;243.94;0.513;0.035;0.147;60
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.95;69;238.23;8.03;339.52;0.483;0.067;0.125;52
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.72;94.34;133.02;4.81;265.96;0.433;0.066;0.143;55
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.03;73.45;527.35;1.31;171;0.584;0.125;0.176;81
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;1.4;131.21;1037.66;6.37;274.51;0.314;0.078;0.141;59
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;1975;NA;NA;NA;NA;critical;survivor;1.76;165.79;1512.18;14.21;431.95;0.647;0.1;0.211;97
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;0.79;69;643.17;7.21;249.69;0.592;0.109;0.173;78
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;1;92.98;702.39;5.36;227.56;0.398;0.107;0.144;57
+COVAID;6;day 6;2;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;critical;non-survivor;1.02;290.25;1752.76;7.37;544.4;0.595;0.061;0.189;63
+COVAID;15;day 15;3;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;412;NA;NA;non-critical;survivor;0.56;69;289.37;5.17;171;0.512;0.068;0.118;47
+COVAID;15;day 15;3;no;COVID-19;IL1_IL6;siltuximab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;376;NA;NA;non-critical;survivor;0.64;87.31;251.35;4.86;186.59;0.434;0.079;0.106;39
+COVAID;15;day 15;3;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;434;NA;NA;non-critical;survivor;0.73;69;528.95;1.08;171;0.496;0.072;0.111;44
+COVAID;15;day 15;3;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;147;NA;NA;critical;survivor;1.01;86.74;844.61;7.77;503.89;0.806;0.126;0.225;80
+COVAID;15;day 15;3;no;COVID-19;IL1_IL6;tocilizumab;;anti-IL-6(R);anti-IL-1;NA;NA;NA;392;NA;NA;critical;survivor;0.45;69;519.02;4.81;172.32;0.49;0.054;0.121;45
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;115;1166;NA;185;4;0;non-critical;survivor;1.52;121.87;707.61;4.93;578.1;0.542;0.138;0.14;57
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;136;3305;1080;148;4;0;non-critical;survivor;3.04;174.03;736.88;18.06;508.01;0.975;0.267;0.303;125
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;170;1813;670;150;3;0;non-critical;survivor;1.04;159.06;486.28;14.01;734.61;0.445;0.133;0.212;84
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;163;3946;NA;251;4;0;non-critical;survivor;1.56;165.68;1535.15;13.24;535.52;0.709;0.131;0.196;79
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;54;1470;NA;200;4;0;non-critical;survivor;0.87;77.96;638.18;9.99;495.13;0.662;0.167;0.217;78
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;244;1234;5280;154;4;0;non-critical;survivor;1.61;197.25;437.43;10.25;531.59;0.781;0.162;0.23;101
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;112;1959;2580;338;4;0;non-critical;survivor;1.5;112.01;490.12;10.73;349.77;0.605;0.185;0.239;94
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;142;1745;988;173;3;0;non-critical;survivor;1.6;147.13;650.98;4.23;443.25;0.544;0.091;0.196;85
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;33;2284;NA;335;4;0;non-critical;survivor;1.54;121.35;644.73;14.03;404.91;0.738;0.151;0.257;96
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;46;6443;NA;226;4;0;non-critical;survivor;2.21;130.14;652.99;6.72;394.72;0.478;0.137;0.206;71
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;445;4666;2150;180;4;1;critical;survivor;1.54;159.35;740.67;18.72;350.34;0.588;0.138;0.192;79
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;182;2811;571;231;2;1;critical;survivor;3.29;287.91;630.81;31.62;794;0.367;0.026;0.224;93
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;134;1704;814;229;3;1;critical;survivor;2.41;172.97;1269.85;24.98;455.56;0.62;0.127;0.193;70
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;208;3812;1160;185;2;1;critical;survivor;1.87;193.09;1080.22;7.44;423.48;0.787;0.157;0.233;97
+COVAID;1;day 1 (predose);1;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;239;1598;370;250;3;1;critical;survivor;1.53;128.81;928.38;3.82;341.23;0.506;0.159;0.135;55
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.9;92.9;175.84;1.23;264.06;0.467;0.099;0.13;56
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.11;69.08;239.44;2.92;171;0.53;0.093;0.122;54
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.72;85.49;825.58;6.8;351.81;0.515;0.119;0.212;84
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.99;72.84;447.2;3.99;303.01;0.504;0.082;0.143;63
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.65;75.65;833.41;4.27;238.2;0.489;0.091;0.151;58
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.81;100.06;245.76;2.44;192.51;0.707;0.113;0.212;89
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.73;69;355.32;3.46;290.88;0.519;0.134;0.189;72
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.01;139.14;531.32;1.78;224.34;0.605;0.072;0.206;87
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.99;81.3;580.65;6.08;273.2;0.564;0.101;0.198;75
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.06;79.96;904.58;2.48;285;0.513;0.108;0.186;65
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;1.21;69;1051.75;7.92;230.11;0.418;0.077;0.139;63
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;1.83;69;619.78;17.65;343.51;0.674;0.091;0.291;112
+COVAID;6;day 6;2;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;0.78;69;517.38;8.92;178.45;0.538;0.063;0.153;54
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;1.33;180.11;687.89;5.5;469.19;0.76;0.1;0.201;84
+COVAID;6;day 6;2;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;0.51;69;325.49;0.8;171;0.14;0.038;0.074;17
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;367;NA;NA;non-critical;survivor;0.87;90.72;499.62;1.12;175.66;0.501;0.072;0.117;49
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.8;69;376.72;2.31;171;0.556;0.059;0.114;59
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.73;102.24;769.81;5.3;218.21;0.668;0.129;0.159;61
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;225;NA;NA;non-critical;survivor;1.11;77.8;1563.39;4.25;171;0.56;0.109;0.148;67
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;350;NA;NA;non-critical;survivor;0.5;69;458.88;4.26;192;0.405;0.048;0.108;39
+COVAID;15;day 15;3;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;280;NA;NA;non-critical;survivor;0.72;108.77;531.76;3.58;218.88;0.592;0.08;0.129;47
+COVAID;15;day 15;3;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;417;NA;NA;non-critical;survivor;0.7;69;286.04;2.64;171;0.488;0.105;0.17;63
+COVAID;15;day 15;3;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;376;NA;NA;non-critical;survivor;0.66;78.4;403.45;1.82;193.35;0.434;0.038;0.123;43
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;189;NA;NA;critical;survivor;1.26;109.62;1871.95;8.81;383.28;0.876;0.187;0.239;94
+COVAID;15;day 15;3;no;COVID-19;IL6;siltuximab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;1.43;103.7;675.26;15.22;315.01;0.84;0.24;0.274;112
+COVAID;15;day 15;3;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;478;NA;NA;critical;survivor;0.69;69;490.36;1.4;171;0.485;0.037;0.103;42
+COVAID;15;day 15;3;no;COVID-19;IL6;tocilizumab;;anti-IL-6(R);no anti-IL-1;NA;NA;NA;273;NA;NA;critical;survivor;0.43;72.29;251.4;1.01;171;0.4;0.013;0.084;40
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;124;3299;740;310;4;0;non-critical;survivor;1.37;102.23;1061.37;11.76;665.73;0.626;0.123;0.19;81
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;208;1055;1180;74;4;0;non-critical;survivor;0.84;69;1115.5;8.47;190.77;0.177;0.018;0.074;2
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;84;1334;980;301;4;0;non-critical;survivor;1.4;95.6;711.69;13.7;408.77;0.492;0.16;0.171;74
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;224;432;1810;119;4;0;non-critical;survivor;1.31;114.21;970.35;6.35;346.02;0.67;0.158;0.223;81
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;159;1367;925;141;3;0;non-critical;survivor;1.61;134.07;1311.47;5.54;516.38;0.628;0.152;0.225;80
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;176;1403;1026;138;4;0;non-critical;survivor;1.49;106.57;1031.77;15.59;633.93;0.612;0.124;0.166;57
+COVAID;1;day 1 (predose);1;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;198;1631;NA;88;4;1;critical;survivor;2.13;145.91;1190.07;21.24;380.68;0.759;0.212;0.246;92
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;372;NA;NA;non-critical;survivor;1.45;102.44;653.91;6.29;393.48;0.659;0.117;0.198;86
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.46;113.96;4187.08;11.56;378.74;0.66;0.071;0.074;9
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.44;99.21;864.76;7.62;375.34;0.708;0.215;0.228;90
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.74;144.31;1066.72;4.83;463.75;1.218;0.271;0.439;145
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.3;261.16;1484.29;6.98;548.74;0.76;0.155;0.238;88
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;194;NA;NA;non-critical;survivor;1.16;93.92;1461.87;2.91;314.98;0.946;0.197;0.266;95
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.73;69;158.76;4.26;294.15;0.602;0.061;0.19;70
+COVAID;6;day 6;2;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;NA;NA;NA;critical;survivor;0.85;105.04;471.92;6.1;344.73;0.748;0.182;0.261;91
+COVAID;15;day 15;3;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;466;NA;NA;non-critical;survivor;1.29;96.85;4081.38;10.03;278.4;0.702;0.076;0.074;3
+COVAID;15;day 15;3;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;392;NA;NA;non-critical;survivor;1.67;87.63;484.4;7.14;336.1;0.792;0.223;0.247;101
+COVAID;15;day 15;3;no;COVID-19;control;;;no anti-IL-6(R);no anti-IL-1;NA;NA;NA;362;NA;NA;non-critical;survivor;0.75;69;1247.84;1.73;171;0.657;0.122;0.175;62
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;190;1477;NA;78;4;0;non-critical;survivor;1.2;151.97;353.2;11.02;444.94;0.742;0.129;0.21;84
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;301;2397;NA;294;4;0;non-critical;survivor;1.42;116.44;1287.73;18.78;536.94;0.755;0.146;0.223;80
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;49;3307;NA;270;4;0;non-critical;survivor;1.16;88.09;1012.17;10.21;281.27;0.565;0.23;0.164;64
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;98;2901;NA;311;4;0;non-critical;survivor;1.61;130.84;943.99;19.1;783.48;0.461;0.119;0.157;69
+COVAID;1;day 1 (predose);1;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;318;1172;NA;43;4;1;critical;non-survivor;1.83;183.97;1151.02;27.36;518.25;0.746;0.135;0.211;76
+COVAID;6;day 6;2;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;0.89;90.13;838.64;6.04;341.51;0.735;0.114;0.217;82
+COVAID;6;day 6;2;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.01;98.17;906.18;6.89;379.4;0.817;0.155;0.208;78
+COVAID;6;day 6;2;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.1;92.52;878.63;4.85;393.48;0.623;0.202;0.143;60
+COVAID;6;day 6;2;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;non-critical;survivor;1.28;146.28;572.28;8.99;484.95;0.531;0.122;0.162;71
+COVAID;6;day 6;2;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;NA;NA;NA;critical;non-survivor;2.31;329.98;2025.41;12.34;417.62;0.559;0.084;0.174;62
+COVAID;15;day 15;3;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;351;NA;NA;non-critical;survivor;0.94;89.42;979.26;4.73;260.04;0.778;0.14;0.188;73
+COVAID;15;day 15;3;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;400;NA;NA;non-critical;survivor;0.82;91.32;823.11;6.26;270.57;0.706;0.138;0.171;65
+COVAID;15;day 15;3;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;362;NA;NA;non-critical;survivor;0.99;103.14;1984.2;3.95;289.28;0.602;0.177;0.112;47
+COVAID;15;day 15;3;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;409;NA;NA;non-critical;survivor;0.95;74.29;538.52;3.39;239.91;0.607;0.142;0.161;74
+COVAID;15;day 15;3;no;COVID-19;IL1;;;no anti-IL-6(R);anti-IL-1;NA;NA;NA;215;NA;NA;critical;non-survivor;0.84;69;458.22;3.91;281.72;0.444;0.067;0.161;64
+COVAID;6;day 6;2;no;COVID-19;;;;;;NA;NA;NA;NA;NA;NA;;;2.32;181.67;1194.87;28.83;663.34;0.683;0.122;0.239;79
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.77;69;506.45;2.65;171;0.546;0.104;0.104;35
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.57;69;1109.67;3.16;171;0.511;0.091;0.096;32
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.56;69;810.78;2.1;171;0.423;0.076;0.121;44
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.69;69;1498.18;2.85;171;0.538;0.092;0.118;43
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.7;69;1274.67;2.12;171;0.499;0.105;0.098;33
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.89;69;1181.2;1.47;171;0.667;0.121;0.155;56
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.62;69;705.51;3.65;171;0.472;0.077;0.111;39
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.65;69;503.33;2.48;171;0.552;0.089;0.092;29
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.62;69;908;2.99;171;0.481;0.103;0.114;37
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.39;69;635.9;0.76;171;0.488;0.088;0.088;29
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.64;107.81;938.22;3.12;260.69;0.537;0.176;0.106;35
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.68;69;1055.59;4.82;171;0.438;0.086;0.109;37
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.55;69;590.89;2.14;171;0.443;0.097;0.13;47
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.66;97.92;296;3.33;171;0.431;0.015;0.074;18
+healthy;1;day 1 (predose);1;yes;healthy;healthy;;;healthy;healthy;NA;NA;NA;NA;NA;NA;healthy;healthy;0.46;69;382.39;2.54;171;0.332;0.032;0.08;26
