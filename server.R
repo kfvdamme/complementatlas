@@ -46,7 +46,7 @@ server <- function(input, output) {
                 axis.text = element_text(size = 16),
                 axis.title.x = element_blank(),
                 axis.title.y = element_blank(),
-                legend.text = element_text(size = 16),
+                legend.text = element_text(size = 14),
                 axis.ticks.y = element_blank(),
                 legend.title = element_blank())
         

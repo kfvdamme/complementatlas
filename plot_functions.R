@@ -61,7 +61,7 @@ evolutionplot = function(dataset, variable, comparison, groups = 5) {
     scale_x_continuous(breaks=c(0,1,2,3), labels=c("", "day 1","day 6", "")) +
     coord_cartesian(ylim = c((min(dataset_summary$mean)-max(dataset_summary$ci)) * 0.9,(max(dataset_summary$mean)+max(dataset_summary$ci)) * 1.1)) +
     ggtitle(paste(variable, "over time")) +
-    labs(caption = "gray area represents 95% confidence interval of healthy controls") +
+    labs(caption = "gray area represents 95% confidence interval\nof healthy controls") +
     theme_hc() +
     theme(legend.position="bottom",
           legend.key.width = unit(2.25, "cm"),
@@ -70,7 +70,7 @@ evolutionplot = function(dataset, variable, comparison, groups = 5) {
           axis.text = element_text(size = 16),
           axis.title.x = element_blank(),
           axis.title.y = element_blank(),
-          legend.text = element_text(size = 16),
+          legend.text = element_text(size = 14),
           axis.ticks.y = element_blank(),
           legend.title = element_blank())
 }
@@ -141,7 +141,7 @@ evolutionplot_anti_IL = function(dataset, variable, comparison) {
     scale_x_continuous(breaks=c(0,1,2,3), labels=c("", "day 1","day 6", "")) +
     coord_cartesian(ylim = c((min(dataset_summary$mean)-max(dataset_summary$ci)) * 0.9,(max(dataset_summary$mean)+max(dataset_summary$ci)) * 1.1)) +
     ggtitle(paste(variable, "over time")) +
-    labs(caption = "gray area represents 95% confidence interval of healthy controls") +
+    labs(caption = "gray area represents 95% confidence interval\nof healthy controls") +
     theme_hc() +
     theme(legend.position="bottom",
           legend.key.width = unit(2.25, "cm"),
@@ -150,7 +150,7 @@ evolutionplot_anti_IL = function(dataset, variable, comparison) {
           axis.text = element_text(size = 16),
           axis.title.x = element_blank(),
           axis.title.y = element_blank(),
-          legend.text = element_text(size = 16),
+          legend.text = element_text(size = 14),
           axis.ticks.y = element_blank(),
           legend.title = element_blank())
 }
