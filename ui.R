@@ -1,5 +1,10 @@
 options(warn=-1)
+<<<<<<< HEAD
 # setwd("D:/COVID-19/BIO-COV/Data_Sharing_Clean")
+=======
+#setwd("D:/COVID-19/BIO-COV/Data_Sharing_Clean")
+
+>>>>>>> a8eaf4d2c2b49ddadbe3f65f772af570e774e990
 suppressPackageStartupMessages(library(shiny))
 suppressPackageStartupMessages(library(tidyverse))
 suppressPackageStartupMessages(library(ggthemes))
