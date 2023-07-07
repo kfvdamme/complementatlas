@@ -1,5 +1,4 @@
 # boxplot
-
 boxplot = function(dataset, variable, comparison, timepoint) {
   dataset_subset = dataset %>%
     filter(Day_chr == timepoint | Healthy == "yes") %>%
@@ -24,7 +23,6 @@ boxplot = function(dataset, variable, comparison, timepoint) {
 }
 
 # evolutionplot
-
 evolutionplot = function(dataset, variable, comparison, groups = 5) {
   dataset_summary = dataset %>%
     select(Classifier = comparison, variable, Timepoint) %>%
@@ -77,7 +75,6 @@ evolutionplot = function(dataset, variable, comparison, groups = 5) {
 
 
 # violinplot
-
 violinplot = function(dataset, variable, comparison, timepoint) {
   dataset_subset = dataset %>%
     filter(Exclude_aIL6_timepoint_2 == "no") %>% # day 6 samples of anti-IL-6 treated patients are excluded
@@ -103,7 +100,6 @@ violinplot = function(dataset, variable, comparison, timepoint) {
 }
 
 # evolutionplot for effect of anti-IL drugs
-
 evolutionplot_anti_IL = function(dataset, variable, comparison) {
   dataset_summary = dataset %>%
     filter(Exclude_anti_IL1_IL6_comparison != "yes") %>%
