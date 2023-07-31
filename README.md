@@ -1,4 +1,5 @@
 # COVID-19 Complement Atlas
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8192092.svg)](https://doi.org/10.5281/zenodo.8192092)
 
 Welcome to the GitHub repository of the **COVID-19 Complement Atlas**. This repository contains the R code and raw data behind <a href='https://www.complementatlas.com'>complementatlas.com</a>, an interactive portal for exploring complement dysregulation during COVID-19. The data underlying this project have also been deposited on Zenodo and Dryad. For the methods and results, please read the full paper: ** LINK **.
 
@@ -28,7 +29,9 @@ Additionally, the **www** subfolder contains all the data in CSV format, along w
 
 *  **complement_function.csv** contains the ex vivo complement functional tests.
 
-* **olink.csv** includes the 3000-plex proteomics dataset. 
+* **olink.csv** includes the 3000-plex proteomics dataset.
+
+* **README.txt** includes metadata for the above files. 
 
 ## License
 
