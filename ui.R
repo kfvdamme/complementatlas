@@ -221,7 +221,7 @@ ui <- fluidPage(
                                 tags$a(href = "README.txt", "Download README for the above datasets."),
                                 br(),
                                 br(),
-                                HTML("<div class='justified'>Link to datasets at <a href='example.com'>Zenodo</a> with DOI: <a href='example.com'>example</a>."),
+                                HTML("<div class='justified'>Link to datasets at <a href='https://zenodo.org/record/8192091'>Zenodo</a> with DOI: <a href='https://doi.org/10.5281/zenodo.8192091'>10.5281/zenodo.8192091</a>."),
                                 br(),
                                 HTML("<div class='justified'>Link to code at <a href='https://github.com/kfvdamme/complementatlas'>GitHub Repository</a>."),
                                 br(),
