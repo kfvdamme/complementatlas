@@ -29,7 +29,9 @@ Additionally, the **www** subfolder contains all the data in CSV format, along w
 
 *  **complement_function.csv** contains the ex vivo complement functional tests.
 
-* **olink.csv** includes the 3000-plex proteomics dataset. 
+* **olink.csv** includes the 3000-plex proteomics dataset.
+
+* **README.txt** includes metadata for the above files. 
 
 ## License
 
