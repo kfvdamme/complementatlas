@@ -75,14 +75,7 @@ ui <- fluidPage(
                                 p(style = "text-align: justify;",
                                   strong("Scientific abstract")),
                                 p(style = "text-align: justify;",
-                                  "To improve COVID-19 treatment, it is essential to understand the mechanisms driving critical illness. 
-                                  The complement system is an crucial component of innate host defense, but it can also contribute to tissue injury. 
-                                  While all complement pathways have been implicated in COVID-19 pathogenesis, the upstream drivers and downstream consequences on tissue injury remain ill-defined. 
-                                  Here, we demonstrate that complement activation is primarily mediated by the alternative pathway, and we provide a comprehensive atlas of the complement alterations around the time of respiratory deterioration. 
-                                  Proteomic and single-cell sequencing data across cell types and tissues reveal a division of labor between lung epithelial, stromal, and myeloid cells in complement production, in addition to liver-derived factors. 
-                                  We identify IL-6 and STAT1/3 signaling as an upstream driver of complement responses, linking complement dysregulation to approved COVID-19 therapies. 
-                                  Furthermore, an exploratory proteomic study indicates that inhibition of complement C5 improves epithelial damage and markers of disease severity. 
-                                  Collectively, these results support complement dysregulation as a key druggable feature of COVID-19."),
+                                  "Improvements in COVID-19 treatments, especially for the critically ill, require deeper understanding of the mechanisms driving disease pathology. The complement system is a crucial component of innate host defense, but can also contribute to tissue injury. Although all complement pathways have been implicated in COVID-19 pathogenesis, the upstream drivers and downstream effects on tissue injury remain poorly defined. We demonstrate that complement activation is primarily mediated by the alternative pathway, and we provide a comprehensive atlas of the complement alterations around the time of respiratory deterioration. Proteomic and single-cell sequencing mapping across cell types and tissues reveals a division of labor between lung epithelial, stromal, and myeloid cells in complement production, in addition to liver-derived factors. We identify IL-6 and STAT1/3 signaling as an upstream driver of complement responses, linking complement dysregulation to approved COVID-19 therapies. Furthermore, an exploratory proteomic study indicates that inhibition of complement C5 decreases epithelial damage and markers of disease severity. Collectively, these results support complement dysregulation as a key druggable feature of COVID-19."),
                                 br()
                          ))),
               tabPanel("Complement",
@@ -217,13 +210,15 @@ ui <- fluidPage(
                                 br(),
                                 p(style = "text-align: justify;",
                                   strong("Datasets")),
-                                tags$a(href = "complement.csv", "Download complement level dataset"),
+                                tags$a(href = "complement.csv", "Download complement level dataset."),
                                 br(),
-                                tags$a(href = "complement_anti_C5.csv", "Download sC5b-9 levels upon anti-C5 treatment"),
+                                tags$a(href = "complement_anti_C5.csv", "Download sC5b-9 levels upon anti-C5 treatment."),
                                 br(),
-                                tags$a(href = "complement_function.csv", "Download complement activity dataset"),
+                                tags$a(href = "complement_function.csv", "Download complement activity dataset."),
                                 br(),
-                                tags$a(href = "olink.csv", "Download proteomics dataset (Olink Explore 3072)"),
+                                tags$a(href = "olink.csv", "Download proteomics dataset (Olink Explore 3072)."),
+                                br(),
+                                tags$a(href = "README.txt", "Download README for the above datasets."),
                                 br(),
                                 br(),
                                 HTML("<div class='justified'>Link to datasets at <a href='example.com'>Zenodo</a> with DOI: <a href='example.com'>example</a>."),
@@ -256,7 +251,8 @@ ui <- fluidPage(
                                       We thank the UCB team (Claire Brittain, Laurent Detalle, Jemma Greenin, Margarita Lens and Marianna Lalla) for the collaboration on the ZILUCOV trial. 
                                       The Inflammation Research Center web team (Arne Soete) and VIB Single Cell Core (Kevin Verstaen) helped launching the Complement Atlas web portal.
                                       Administrative and ethical advice was kindly provided by VIB (Griet Verhaegen, Rene Custers).
-                                      We thank Hamideh Baggali and Nikita Gerebtsov for providing linguistic advice."),
+                                      We thank Hamideh Baggali and Nikita Gerebtsov for providing linguistic advice.
+                                      Please find the competing interests disclosed in the full article."),
                                 br(),
                                 br(),
                                 p(style = "text-align: justify;",
