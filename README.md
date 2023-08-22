@@ -1,7 +1,10 @@
 # COVID-19 Complement Atlas
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8192092.svg)](https://doi.org/10.5281/zenodo.8192092)
+[![DOI:10.1126/scitranslmed.adi0252](http://img.shields.io/badge/DOI-10.1126/scitranslmed.adi0252-B31B1B.svg)](http://www.science.org/doi/10.1126/scitranslmed.adi0252)
 
-Welcome to the GitHub repository of the **COVID-19 Complement Atlas**. This repository contains the R code and raw data behind <a href='https://www.complementatlas.com'>complementatlas.com</a>, an interactive portal for exploring complement dysregulation during COVID-19. The data underlying this project have also been deposited on Zenodo and Dryad. For the methods and results, please read the full paper: ** LINK **.
+Welcome to the GitHub repository of the **COVID-19 Complement Atlas**. This repository contains the R code and raw data behind **<a href='https://www.complementatlas.com'>complementatlas.com</a>**, an interactive portal for exploring complement dysregulation during COVID-19. The data underlying this project have also been deposited on Zenodo and Dryad. 
+
+For the methods and results, please read the full paper: **<a href='http://www.science.org/doi/10.1126/scitranslmed.adi0252'>A Complement Atlas identifies interleukin 6 dependent alternative pathway dysregulation as a key druggable feature of COVID-19</a>**.
 
 The patient samples and clinical data utilized in this project were collected during three randomized clinical trials conducted in the 2020 COVID-19 pandemic:
 
