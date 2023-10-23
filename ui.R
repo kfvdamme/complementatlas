@@ -46,7 +46,7 @@ ui <- fluidPage(
                                   "KFA Van Damme, L Hoste, J Declercq, E De Leeuw, B Maes, L Martens, R Colman, R Browaeys, C Bosteels, S Verwaerde, N Vermeulen, S Lameire, N Debeuf, J Deckers, P Stordeur, P Depuydt, E Van Braeckel, L Vandekerckhove, M Guilliams, STT Schetters, F Haerynck, SJ Tavernier, BN Lambrecht."),
                                 p(style = "text-align: justify;",
                                   "A Complement Atlas identifies interleukin 6 dependent alternative pathway dysregulation as a key druggable feature of COVID-19."),
-                                HTML("<div class='justified'><em>Science Translational Medicine.</em> <strong> 15</strong>, eadi0252 (2023). DOI: <a href='https://doi.org/10.1126/scitranslmed.adi0252'>10.1126/scitranslmed.adi0252</a></div>")),
+                                HTML("<div class='justified'><em>Science Translational Medicine.</em><strong> 15</strong>, eadi0252 (2023). DOI: <a href='https://doi.org/10.1126/scitranslmed.adi0252'>10.1126/scitranslmed.adi0252</a></div>")),
                          column(width = 7,
                                 h3("COVID-19 Complement Atlas - introduction"),
                                 br(),
